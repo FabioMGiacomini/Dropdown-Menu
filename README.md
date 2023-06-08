@@ -1,5 +1,5 @@
 # Dropdown Menu 
-<p>Menu a comparsa con apertura effetto hover realizzato attraverso Javascript.</p>
+<h3>Menu a comparsa con apertura mediante effetto hover realizzato attraverso Javascript.</h3>
 <br>
 <br>
 
